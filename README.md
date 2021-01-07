@@ -1,5 +1,7 @@
 [![drawing](docs/pictures/header.png)](https://gammasoft71.wixsite.com/xtd-drawing)
 
+# xtd_drawing was merged into [xtd](https://github.com/gammasoft71/xtd).
+
 [![Build Status](https://travis-ci.org/gammasoft71/xtd_drawing.svg?branch=master)](https://travis-ci.org/gammasoft71/xtd_drawing)
 [![Build status](https://ci.appveyor.com/api/projects/status/mj2nrfvudaa9u4uu?svg=true)](https://ci.appveyor.com/project/gammasoft71/xtd-drawing)
 [![Reference Guide](https://img.shields.io/badge/code-Reference_Guide-brightgreen.svg)](https://codedocs.xyz/gammasoft71/xtd_drawing/)
